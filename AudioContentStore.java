@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /*
  * Sanna Balouchi
- * 501154179
+ * 
  * 
  * 
  * Simulation of audio content in an online store
