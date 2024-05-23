@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /*
  * Sanna Balouchi
- * 501154179
+ * 
  * 
  * 
  *  A Season is a class that is useful to Podcast. It is to hold and access episode titles, episode files, and episode lengths 
