@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /*
  * Sanna Balouchi
- * 501154179
+ * 
  * 
  * 
  *  A Podcast is a type of AudioContent. A Podcast has extra fields such as host (person(s) talking on the podcast) and seasons the podcast has 
